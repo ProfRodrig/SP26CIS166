@@ -1,0 +1,52 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/eclipse/Eclipse-Workspace/CIS166 sp26/Lecture1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/eclipse/Eclipse-Workspace/CIS166 sp26/Lecture1/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Lecture1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Lecture1 1.0-SNAPSHOT API'
+'C:/eclipse/Eclipse-Workspace/CIS166 sp26/Lecture1/src/main/java/Lecture1.java'
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\src\main\java\Lecture1.java = 1769205953219
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\src\main\java = 1769202797552
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\allclasses-index.html = 1769205989755
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\allpackages-index.html = 1769205989759
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\copy.svg = 1769205989803
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\element-list = 1769205989706
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\help-doc.html = 1769205989797
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\index-all.html = 1769205989782
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\index.html = 1769205989790
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\Lecture1.html = 1769205989703
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\link.svg = 1769205989805
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\member-search-index.js = 1769205989764
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\module-search-index.js = 1769205989762
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\overview-tree.html = 1769205989739
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\package-search-index.js = 1769205989764
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\package-summary.html = 1769205989716
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\package-tree.html = 1769205989722
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\package-use.html = 1769205989724
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\script.js = 1769205989802
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\search-page.js = 1769205989814
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\search.html = 1769205989787
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\search.js = 1769205989809
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\stylesheet.css = 1769205989800
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\tag-search-index.js = 1769205989768
+C:\eclipse\Eclipse-Workspace\CIS166 sp26\Lecture1\target\reports\apidocs\type-search-index.js = 1769205989764
