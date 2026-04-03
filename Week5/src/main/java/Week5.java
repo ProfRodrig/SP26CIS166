@@ -12,7 +12,7 @@ public class Week5
     public static void main(String[] args) 
     {
         System.out.println("Current Number of Animals: " + Animal.getNumAnimals());
-        Animal pet = new Animal("Blue", "Parrot");
+        Animal pet = new Animal("Blue", "Something Else");
         Animal cPet = new Animal(pet);
         Animal aCopy = pet.makeCopy();
         cPet.setName("Rex");
