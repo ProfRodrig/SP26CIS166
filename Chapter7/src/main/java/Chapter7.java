@@ -13,7 +13,7 @@ public class Chapter7
     {
         Movie home = new Movie("Hello", "test", "oops", 5402);
         TVShow flash = new TVShow("Flash", 
-                "Superhero", "Some Person", 
+                "Superhero", "Universal Studios", 
                 188, 9, 2583);
         System.out.println(home);
         System.out.println(flash);
