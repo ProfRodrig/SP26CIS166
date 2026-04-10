@@ -18,7 +18,7 @@ public class Lecture1
     public static void main(String[] args) 
     {
         // This is also a comment
-        String name = "John Rodrigues";
+        String name = "John Fetiosa Rodrigues";
         int number;
         float x = 2.5f;
         double y = 5 / 2;
